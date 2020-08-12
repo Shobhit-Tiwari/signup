@@ -1,0 +1,29 @@
+<style>
+#c1{
+    background-color:aqua;
+}
+#c2{
+    background-color:red;
+}
+.Cl1{
+    background-color: black;
+    color: black;
+}
+*{
+    background-color: violet;
+    color:red;
+     font-family: "Gill Sans", sans-serif; 
+}
+{
+    display: flex;
+}
+
+    
+.container > * {
+    width : 100px;
+    height: 100px;
+    display : inline-flex;
+    border: 1px solid black;
+}
+</style>
+

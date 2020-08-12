@@ -1,0 +1,11 @@
+
+.container  {
+    width : 100px;
+    height: 200px;
+    display :flex;
+    justify-content: space-between;
+    border-style: solid black 5px;
+    flex-direction: row;
+    border: 1px solid black;
+}
+
